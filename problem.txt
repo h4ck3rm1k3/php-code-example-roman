@@ -1,0 +1,22 @@
+ 
+1. Coding from scratch (not sourcing online)
+2. Documentation 
+3. Unit Testing
+ 
+ 
+The kata exercise for a given candidate is to write a simple application in the programming language of his choice (it can be something that runs at the command prompt) that will recognize a Roman number that has been entered and then convert it to standard numbers.   It will also recognize a regular number than has been entered and convert it to a Roman numeral.
+
+Example 1:
+         Input: XVII
+         Ouput: 17
+ 
+Example 2:
+         Input: 9
+         Output: IX
+ 
+The application shouldn’t handle any numbers larger than 3,000 and I should be able to put in a number over and over again (Roman or regular) until I decide to the quit the application.
+ 
+The kata should be returned with complete source code, installation and run instructions along with what the candidate considers sufficient application documentation, unit testing, and error handling.
+ 
+If needed, Roman numeral reference can be found here:  http://www.novaroma.org/via_romana/numbers.html
+
